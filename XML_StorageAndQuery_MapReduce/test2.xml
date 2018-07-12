@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<books> 
+
+    <book id="16"> 
+
+        <name>harry potter</name> 
+
+        <price>130.0</price> 
+
+    </book> 
+
+    <book id="20"> 
+
+        <name>summer</name> 
+
+        <price>39.0</price> 
+        
+        <summary>The <author>Lee</author> is great...</summary>
+
+    </book> 
+
+</books>

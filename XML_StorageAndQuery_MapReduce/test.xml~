@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<teachers> 
+
+    <teacher id="001"> 
+
+        <name>Yu</name> 
+
+        <sex>male</sex>
+
+        <age>24</age> 
+
+    </teacher> 
+
+    <teacher id="006"> 
+
+        <name>XueNan</name> 
+
+        <sex>male</sex>
+
+        <age>24</age> 
+
+        <summary>The <author>Harry</author> is handsome...</summary>
+
+    </teacher> 
+
+</teachers>
